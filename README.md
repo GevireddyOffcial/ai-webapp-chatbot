@@ -16,8 +16,8 @@ A friendly AI assistant web app powered by Google Gemini, built with [Streamlit]
 ### 1. Clone the repository
 
 ```sh
-git clone <your-repo-url>
-cd ai-webapp-chatbo
+git clone https://github.com/GevireddyOffcial/ai-webapp-chatbot.git
+cd ai-webapp-chatbot
 ```
 
 ### 2. Install dependencies
